@@ -1,2 +1,1 @@
-Эта папка создана как запасная, основной файл был выложен до дедлайна, его можно найти по ссылке, время сдачи указано:
-https://github.com/MMinderbinder/OnlineCourse
+Screenshots for Data Analysis Online Course
